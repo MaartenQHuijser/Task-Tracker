@@ -1,10 +1,10 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Finish adding local json server",
-      "day": "today",
-      "reminder": true
+      "text": "Add task",
+      "day": "friday",
+      "reminder": true,
+      "id": 1
     }
   ]
 }
